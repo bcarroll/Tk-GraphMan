@@ -1,4 +1,4 @@
-TK::GraphMan - A scrolling Windows Task Manager style grid/graph chart
+TK::GraphMan - A scrolling Windows Task Manager style grid/graph chart for PERL
 
 <h2 id="SYNOPSIS">SYNOPSIS</h2>
 
